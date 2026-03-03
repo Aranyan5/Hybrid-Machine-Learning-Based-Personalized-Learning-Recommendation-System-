@@ -1,0 +1,21 @@
+course_id,title,topic,difficulty,description
+C001,Intro to Python,Programming,Beginner,Learn Python basics including variables and control flow and functions and data types
+C002,Data Structures in Python,Programming,Intermediate,Study lists and trees and graphs and hash maps in Python with hands-on exercises
+C003,Advanced Algorithms,Programming,Advanced,Dive into dynamic programming and graph algorithms and complexity analysis
+C004,Statistics Fundamentals,Data Science,Beginner,Explore descriptive statistics and probability distributions and hypothesis testing
+C005,Machine Learning Basics,Data Science,Intermediate,Introduction to supervised and unsupervised learning using scikit-learn
+C006,Deep Learning with PyTorch,Data Science,Advanced,Build neural networks and CNNs and RNNs using PyTorch framework
+C007,Web Development Basics,Web Development,Beginner,Learn HTML and CSS and JavaScript to build responsive websites from scratch
+C008,React Framework,Web Development,Intermediate,Build modern single-page applications with React and hooks and state management
+C009,Full-Stack Development,Web Development,Advanced,Create complete web apps with Node.js and Express and database integration
+C010,Database Design,Databases,Beginner,Learn relational database concepts and SQL queries and normalization
+C011,Advanced SQL,Databases,Intermediate,Master complex queries and joins and window functions and query optimization
+C012,NoSQL Databases,Databases,Advanced,Work with MongoDB and Redis and document stores for scalable applications
+C013,Cybersecurity Basics,Security,Beginner,Understand threats and encryption and network security and authentication
+C014,Ethical Hacking,Security,Intermediate,Learn penetration testing and vulnerability assessment and security auditing
+C015,Cloud Computing Intro,Cloud,Beginner,Get started with AWS and Azure and cloud architecture fundamentals
+C016,DevOps Practices,Cloud,Intermediate,Master CI/CD pipelines and Docker and Kubernetes and infrastructure as code
+C017,Linear Algebra for ML,Mathematics,Beginner,Study vectors and matrices and transformations essential for machine learning
+C018,Calculus for Data Science,Mathematics,Intermediate,Learn derivatives and integrals and optimization techniques for data science
+C019,Natural Language Processing,Data Science,Advanced,Text processing and sentiment analysis and transformers for NLP tasks
+C020,Computer Vision,Data Science,Advanced,Image classification and object detection and segmentation with deep learning
