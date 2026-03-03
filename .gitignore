@@ -1,0 +1,56 @@
+# v0 runtime files (should only exist in preview, not in git)
+__v0_runtime_loader.js
+__v0_devtools.tsx
+__v0_jsx-dev-runtime.ts
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+.pytest_cache/
+.coverage
+
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Common ignores
+.next/
+.env*.local
+.env
+.DS_Store
+.vscode/
+.idea/
+*.swp
+
+# Build
+dist/
+build/
+.vite/
+
+# Models and data
+*.pkl
+*.joblib
+*.model
+.vercel
